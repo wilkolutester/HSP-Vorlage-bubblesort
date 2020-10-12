@@ -1,5 +1,5 @@
 # HSP-Vorlage-bubblesort
-Hochsprachenprogrammierung WiSe 2019/2020 an der Jade Hchschule
+Hochsprachenprogrammierung / Mecke an der Jade Hochschule
 
 Aufgabe: Implementieren Sie den BubbleSort Algorithmus in der Methode "BubbleSort" innerhalb der Klasse "Program" BubbleSort\Program.cs
 
