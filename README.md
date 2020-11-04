@@ -10,6 +10,11 @@ Folgende Schritte sind für die Iplementierung [des Algorithmus](http://www.sort
 
 Eine Übersicht über diverse Sortieralgorithmen finden Sie [hier)(http://www.sorting-algorithms.com/). Details zum Bubblesort finden Sie [hier](http://math.hws.edu/eck/jsdemo/sortlab.html). Probieren Sie den Code slbst zu entwickeln.
 
+## Objektorientierung (Erweiterung):
+Diese Aufgabe kann auch sehr gut objektorientiert gelöst werden. Eine weitere Erklärung für die Aufgabe finden Sie in der pdf-Präsentation in dem Repository, sowie in dem zusätzlichen erklärenden Video (https://ccs.jade-hs.de/f/228185474).
+
+Die objektorientierte Lösung ist nicht durch Unittests abgedeckt.
+
 ## Getting Started
 * Clonen Sie die Repository auf Ihren Rechner
 * Öffnen Sie die Solution *.sln in Visual Studio
